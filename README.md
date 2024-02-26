@@ -9,7 +9,7 @@ Aplicación estilo Twitter para enterarte que pasa en tu red.
 Si se quiere probar utilizando mysql descomentar las propiedades del application.properties de los módulos Tweet y Usuario.
 - Para crear las base en mysql utilizar los schema.sql y data.sql para agregar los datos, estos están en la carpeta Resources.
 - Cada modulo contiene su propio readme.md con mas detalles sobre el mismo.
-- *Si no toma los applications.properties de cada proyecto, te recomiendo que los abras en ide's separados.
+- *Si no toma los applications.properties de cada proyecto, te recomiendo que los abras en ide's separados.*
 
 ## Casos de uso y la comunicacion entre modulos
 ### Obtener TimeLine 
