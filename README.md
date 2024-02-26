@@ -3,8 +3,9 @@ Aplicación estilo Twitter para enterarte que pasa en tu red.
 
 ### Detalles
 
-El ejercicio fue resuelto en 3 modulos diferentes USUARIOS, TWEET, Y TIMELINE
-*Grafico de como interactuan los distintos modulos entre si:*
+La aplicación fue construida utilizando mysql. Para fines de simplificar la prueba de los módulos, mysql fue reemplazado por H2.
+Si se quiere probar utilizando mysql descomentar las propiedades del application.properties de los módulos Tweet y Usuario.
+Para crear las base en mysql utilizar los schema.sql y data.sql para agregar los datos, estos están en la carpeta Resources
 
 ## Casos de uso y la comunicacion entre modulos
 ### Obtener TimeLine 
