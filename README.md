@@ -2,6 +2,7 @@
 Aplicación estilo Twitter para enterarte que pasa en tu red.
 
 ### Detalles
+Para clonar el repositorio con sus submodulos, usar git clone --recurse-submodules https://github.com/matias14b/Uala-Twitter.git
 
 La aplicación fue construida utilizando mysql. Para fines de simplificar la prueba de los módulos, mysql fue reemplazado por H2.
 Si se quiere probar utilizando mysql descomentar las propiedades del application.properties de los módulos Tweet y Usuario.
