@@ -6,7 +6,25 @@ Aplicación estilo Twitter para enterarte que pasa en tu red.
 El ejercicio fue resuelto en 3 modulos diferentes USUARIOS, TWEET, Y TIMELINE
 *Grafico de como interactuan los distintos modulos entre si:*
 
-![image](https://github.com/matias14b/Uala-Twitter/assets/127508318/3e483438-d0a8-4c27-8fe7-8fe36d3972af)
+## Casos de uso y la comunicacion entre modulos
+### Obtener TimeLine 
+![image](https://github.com/matias14b/Uala-Twitter/assets/127508318/534ca6c8-0237-4951-8f84-c0cf3fbe9dcb)
+
+### Seguir a usuario
+![image](https://github.com/matias14b/Uala-Twitter/assets/127508318/2bcb3ea5-4977-4eb8-b61f-f8b74f67fb31)
+
+### Obtener tweets
+![image](https://github.com/matias14b/Uala-Twitter/assets/127508318/cd0e147d-7483-4eb5-ad1f-d42ad015da6a)
+
+### Crear tweet
+![image](https://github.com/matias14b/Uala-Twitter/assets/127508318/72851532-2243-4e79-b112-c10dc8bad066)
+
+### Obtener Usuario con sus seguidores
+  ![image](https://github.com/matias14b/Uala-Twitter/assets/127508318/ceb96033-4bfa-4114-91af-8fdc1cff7ceb)
+
+### Obtener Usuario por username
+![image](https://github.com/matias14b/Uala-Twitter/assets/127508318/9b0a833a-4eb6-41fb-8360-e8f4f93bc570)
+
 
 
 *Diagrama entidad-relación*
