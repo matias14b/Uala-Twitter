@@ -1,0 +1,6 @@
+[submodule "Tweet"]
+	path = Tweet
+	url = https://github.com/matias14b/Tweet-Uala-Twitter
+[submodule "Tweet-Uala-Twitter"]
+	path = Tweet-Uala-Twitter
+	url = https://github.com/matias14b/Tweet-Uala-Twitter
