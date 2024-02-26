@@ -8,7 +8,7 @@ Aplicación estilo Twitter para enterarte que pasa en tu red.
 - La aplicación fue construida utilizando mysql. Para fines de simplificar la prueba de los módulos, mysql fue reemplazado por H2.
 Si se quiere probar utilizando mysql descomentar las propiedades del application.properties de los módulos Tweet y Usuario.
 - Para crear las base en mysql utilizar los schema.sql y data.sql para agregar los datos, estos están en la carpeta Resources
-- Cada modulo contiene su propio readme.md con mas detalles al respecto.
+- Cada modulo contiene su propio readme.md con mas detalles sobre el mismo.
 
 ## Casos de uso y la comunicacion entre modulos
 ### Obtener TimeLine 
